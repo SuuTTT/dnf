@@ -16,7 +16,7 @@ challenge:
     - 会和球形宠物装备混淆
     - threshold 设置为0.4一下才能监测到，但是不准。
 - OCR数字区域太小，为包括数字，还未调参
-
+![alt text](image.png)
 
 ## 1025 init git, 
 new idea:
